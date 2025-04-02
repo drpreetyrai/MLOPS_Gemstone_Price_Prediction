@@ -2,7 +2,12 @@
 
 
 1.) First Create a template.py : python template.py 
-2.) 
+
+2.) init_setup.sh file -> write commands and run : bash init_setup.sh 
+(it will create env) :- Now you will get env folder 
+
+3.) Write requirements.txt 
+
 
 
 
