@@ -9,5 +9,13 @@
 3.) Write requirements_dev.txt and pip install requirements_dev.txt
 
 
+4.) write exception.py and run python exception.py(path) 
+
+5.) write logging.py and run python logging.py (path) 
+
+6.) write test.py and run python test.py (path) 
+
+
+
 
 
