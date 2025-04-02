@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/preetyrai/real-world-mlops-project/mlruns/0/aa4edbe5f686483892be87434fddd796/artifacts
+end_time: 1743617881881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa4edbe5f686483892be87434fddd796
+run_name: bustling-skunk-769
+run_uuid: aa4edbe5f686483892be87434fddd796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743617879586
+status: 4
+tags: []
+user_id: preetyrai

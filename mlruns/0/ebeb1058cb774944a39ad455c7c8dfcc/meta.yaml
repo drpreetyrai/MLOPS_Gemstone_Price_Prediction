@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/preetyrai/real-world-mlops-project/mlruns/0/ebeb1058cb774944a39ad455c7c8dfcc/artifacts
+end_time: 1743616945673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebeb1058cb774944a39ad455c7c8dfcc
+run_name: placid-shrike-262
+run_uuid: ebeb1058cb774944a39ad455c7c8dfcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743616943971
+status: 4
+tags: []
+user_id: preetyrai

@@ -1,5 +1,5 @@
-==> 2025-04-02 17:05:59 <==
-# cmd: /opt/anaconda3/bin/conda create --prefix ./env python=3.8 -y
+==> 2025-04-02 23:49:42 <==
+# cmd: /opt/anaconda3/condabin/conda create --prefix ./env python=3.8 -y
 # conda version: 24.11.3
 +defaults/osx-arm64::ca-certificates-2025.2.25-hca03da5_0
 +defaults/osx-arm64::libcxx-14.0.6-h848a8c0_0

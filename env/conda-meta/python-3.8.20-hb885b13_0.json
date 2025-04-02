@@ -4,17 +4,17 @@
   "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
   "constrains": [],
   "depends": [
+    "pip",
     "libcxx >=14.0.6",
-    "libffi >=3.4,<3.5",
-    "libffi >=3.4,<4.0a0",
-    "ncurses >=6.4,<7.0a0",
-    "openssl >=3.0.15,<4.0a0",
-    "readline >=8.1.2,<9.0a0",
-    "sqlite >=3.45.3,<4.0a0",
-    "tk >=8.6.14,<8.7.0a0",
-    "xz >=5.4.6,<6.0a0",
     "zlib >=1.2.13,<1.3.0a0",
-    "pip"
+    "libffi >=3.4,<4.0a0",
+    "readline >=8.1.2,<9.0a0",
+    "openssl >=3.0.15,<4.0a0",
+    "libffi >=3.4,<3.5",
+    "ncurses >=6.4,<7.0a0",
+    "xz >=5.4.6,<6.0a0",
+    "sqlite >=3.45.3,<4.0a0",
+    "tk >=8.6.14,<8.7.0a0"
   ],
   "extracted_package_dir": "/opt/anaconda3/pkgs/python-3.8.20-hb885b13_0",
   "files": [
@@ -2104,7 +2104,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_16pxg4ho0y/croot/python-split_1727968619061/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
         "sha256": "6d7687e3b9fea898d2e02196f81905e443259e1b3accf3e983be4d29d4264b7a",
-        "sha256_in_prefix": "0c9755886111fe5a567b9e547e35a19916e8728b3ef73f3496859fb1adb443de",
+        "sha256_in_prefix": "00581bb27568dc443557cc252bc20aa8559d4dae0c4add42436c13d931674525",
         "size_in_bytes": 4180784
       },
       {
@@ -3067,7 +3067,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_16pxg4ho0y/croot/python-split_1727968619061/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
         "sha256": "30833bb4b7dbe79d738d4f84237586a1734c2de709b10defcfdfa660de667a3f",
-        "sha256_in_prefix": "7a41d0d97546b0b268f3c82c15a4a45123ab6a59e16e7ca315cab99894f9ee21",
+        "sha256_in_prefix": "6fd16ded9603db3e2c68c2802de505260cee708d070e4c09707a981c5f5b3941",
         "size_in_bytes": 4181456
       },
       {
@@ -11736,7 +11736,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_16pxg4ho0y/croot/python-split_1727968619061/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
         "sha256": "b27738d6cc04cdf0ec96470ba6f96f9b3631f7f3dedbc9333ac1b27c5cfdf4f6",
-        "sha256_in_prefix": "f222dcc0624f7dc5b3c3c001a2dc34ddad8f933ae438a15fe47afc135e7cd82f",
+        "sha256_in_prefix": "e58a33c6641aba66e6e1e5d40c0176328e1b9857e58286204c403e2d62b27a13",
         "size_in_bytes": 132736
       },
       {
