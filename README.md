@@ -28,6 +28,8 @@ myenv\Scripts\activate      # On Windows
 pip install setuptools
 
 
+11.) mlflow ui 
+
 
 
 
