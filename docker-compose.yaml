@@ -1,0 +1,14 @@
+
+services:
+  application:
+    build: .
+    image: "dp"
+    container_name: gemstone-prediction 
+    ports:
+      - "8000:8000"
+
+
+
+
+
+

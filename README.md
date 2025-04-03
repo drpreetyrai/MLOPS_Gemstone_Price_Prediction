@@ -1,5 +1,5 @@
 
-
+Steps:- 
 
 1.) First Create a template.py : python template.py 
 
@@ -12,6 +12,7 @@
 4.) write exception.py and run python exception.py(path) 
 
 5.) write logging.py and run python logging.py (path) 
+
 
 6.) write test.py and run python test.py (path) 
 
@@ -30,6 +31,14 @@ pip install setuptools
 
 11.) mlflow ui 
 
+12.) Make airflow/dags foler and batch_prediction.py and training_pipeline.py files in that 
+
+13.) Create Dockerfile and docker-compose.yaml file 
+
+
+14.) Make dvc.yaml file for airflow 
+
+15.) docker-compose up 
 
 
 
