@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/preetyrai/real-world-mlops-project/mlruns/0/404d64d6e79845eabeeb5dae1bd3f899/artifacts
+end_time: 1743684355824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 404d64d6e79845eabeeb5dae1bd3f899
+run_name: mercurial-worm-508
+run_uuid: 404d64d6e79845eabeeb5dae1bd3f899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743684354457
+status: 4
+tags: []
+user_id: preetyrai

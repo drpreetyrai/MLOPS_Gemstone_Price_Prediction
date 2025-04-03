@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/preetyrai/real-world-mlops-project/mlruns/0/a460ee3168744b3c8d1fc64e70fea026/artifacts
+end_time: 1743684781799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a460ee3168744b3c8d1fc64e70fea026
+run_name: placid-smelt-862
+run_uuid: a460ee3168744b3c8d1fc64e70fea026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743684779795
+status: 3
+tags: []
+user_id: preetyrai

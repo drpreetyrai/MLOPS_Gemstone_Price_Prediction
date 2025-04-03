@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/preetyrai/real-world-mlops-project/mlruns/0/4d01f6f4a5294107b67738aecea72b07/artifacts
+end_time: 1743684388364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d01f6f4a5294107b67738aecea72b07
+run_name: stylish-shark-978
+run_uuid: 4d01f6f4a5294107b67738aecea72b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743684386998
+status: 4
+tags: []
+user_id: preetyrai

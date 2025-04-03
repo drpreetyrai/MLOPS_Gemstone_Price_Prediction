@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/preetyrai/real-world-mlops-project/mlruns/0/5bbcc2d957d840099ce63296b4a56e03/artifacts
+end_time: 1743684312915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bbcc2d957d840099ce63296b4a56e03
+run_name: redolent-snake-813
+run_uuid: 5bbcc2d957d840099ce63296b4a56e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743684311322
+status: 4
+tags: []
+user_id: preetyrai

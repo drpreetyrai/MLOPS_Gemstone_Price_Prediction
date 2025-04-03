@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/preetyrai/real-world-mlops-project/mlruns/0/379bdf7da792402e9e36c46625a6bff3/artifacts
+end_time: 1743683982647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 379bdf7da792402e9e36c46625a6bff3
+run_name: loud-stag-734
+run_uuid: 379bdf7da792402e9e36c46625a6bff3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743683980803
+status: 4
+tags: []
+user_id: preetyrai

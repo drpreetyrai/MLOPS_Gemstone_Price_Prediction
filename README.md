@@ -22,6 +22,11 @@
 
 9.) Make prediction pipeline :- write code in pipeline -> prediction_pipeline.py -> then make app.py and template folder 
 
+10.) to solve mlflow error:- python -m venv myenv
+source myenv/bin/activate  # On Mac/Linux
+myenv\Scripts\activate      # On Windows
+pip install setuptools
+
 
 
 
