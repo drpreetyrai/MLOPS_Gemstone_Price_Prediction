@@ -43,10 +43,12 @@ with DAG(
         model_trainer_artifact = training_pipeline.model_trainer(train_arr, test_arr) 
         ti.xcom_push("model_trainer_artifact", model_trainer_artifact)
     
+    ## here you have to config azure blob 
     def push_data_to_s3(**kwargs):
-        bucket_name = os.getenv("BUCKET_NAME")
+        bucket_name = "repository_name"
         artifact_folder="/app/artifacts" 
-        os.system(f"aws s3 cp {artifact_folder} s3://{bucket_name}/artifacts")
+        # you can save it to the azure blob 
+        # os.system(f"aws s3 cp {artifact_folder} s3://{bucket_name}/artifacts")
 
 
     data_ingestion_task = PythonOperator(

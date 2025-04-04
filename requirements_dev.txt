@@ -8,7 +8,7 @@ dvc
 ipykernel
 xgboost
 scikit-learn 
-
+Flask
 # dev requirements -
 # libraries for testing purpose 
 pytest==7.1.3
