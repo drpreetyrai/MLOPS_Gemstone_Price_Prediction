@@ -3,7 +3,7 @@ This repository contains a complete end-to-end machine learning pipeline setup u
 
 
 
-# 🧠 End-to-End ML Pipeline with MLOps
+# 🧠💡 End-to-End ML Pipeline with MLOps
 
 This project is a production-ready end-to-end machine learning pipeline with integrated MLOps practices, including **data ingestion**, **transformation**, **model training**, **evaluation**, **deployment**, and **orchestration** using **Airflow**, **MLflow**, **DVC**, and **Docker**.
 
