@@ -40,6 +40,7 @@ pip install setuptools
 
 15.) docker-compose up 
 
+16.) check localhost:8080 for airflow ui
 
 
 

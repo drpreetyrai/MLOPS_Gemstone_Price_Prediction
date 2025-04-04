@@ -8,7 +8,7 @@ dvc
 ipykernel
 xgboost
 scikit-learn 
-apache-airflow
+
 # dev requirements -
 # libraries for testing purpose 
 pytest==7.1.3
