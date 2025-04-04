@@ -44,3 +44,14 @@ pip install setuptools
 
 
 
+
+Steps:
+1.) you need to config the cloud repository training pipeline dag 
+
+2.) you need to write down the dag/batch_prediction
+input file from cloud repo 
+download the file 
+prediction
+upload 
+
+
