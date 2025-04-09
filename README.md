@@ -13,6 +13,13 @@ This project is a production-ready end-to-end machine learning pipeline with int
 
 ### Step 1: Generate Initial Template
 ```bash
+conda create -p venv python=3.8
+
+```
+
+
+### Step 1: Generate Initial Template
+```bash
 python template.py
 
 ```
