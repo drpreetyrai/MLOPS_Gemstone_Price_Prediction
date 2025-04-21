@@ -1,7 +1,10 @@
 ML Pipeline with MLflow, Airflow, DVC & Docker
 This repository contains a complete end-to-end machine learning pipeline setup using MLflow, Airflow, DVC, and Docker. It includes data ingestion, transformation, training, evaluation, and deployment of models with robust logging, exception handling, and experiment tracking.
 
+![alt text](img1.png)
 
+
+![alt text](img2.png)
 
 #  End-to-End ML Pipeline with MLOps
 
@@ -17,6 +20,12 @@ conda create -p venv python=3.8
 
 ```
 
+### to activate the 
+
+```bash
+conda activate /Users/preetyrai/MLOPS_Gemstone_Price_Prediction/venv
+
+```
 
 ### Step 1: Generate Initial Template
 ```bash
